@@ -1,3 +1,4 @@
 [submodule "ouster-sdk"]
 	path = ouster-sdk
 	url = https://github.com/mrob-lab/ouster_example.git
+	branch = master
